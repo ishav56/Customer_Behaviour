@@ -1,0 +1,22 @@
+📊 Project Title: Customer Behavior Analysis
+
+🧠 Description:
+In this project, I explored customer behavior across multiple categories such as 🧥 Clothing, 💻 Technology, 💍 Jewellery, 👜 Accessories, and more! The main goal was to analyze purchasing patterns, customer preferences, and engagement levels across different product segments.
+
+🔧 Tools & Technologies Used:
+🐍 Python (Pandas) – For data cleaning and preprocessing to make the dataset analysis-ready.
+📊 EDA (Exploratory Data Analysis) – To uncover hidden trends, correlations, and behavioral insights.
+🗄 SQL – To write complex queries and extract meaningful patterns from large datasets.
+📈 Power BI – To design an interactive dashboard highlighting KPIs, customer trends, and category-wise insights for better decision-making.
+
+💡 Key Insights:
+
+Identified top-performing categories driving maximum sales and engagement.
+
+Discovered behavioral patterns in customers’ preferences across regions and demographics.
+
+Designed visual KPIs to track performance and highlight category-wise growth opportunities.
+
+
+✨ Outcome:
+Transformed raw, unstructured data into actionable insights through an interactive Power BI dashboard — providing a clear view of customer behavior across different categories.
